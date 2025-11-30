@@ -7,7 +7,7 @@
 
 ## 🇬🇧 English
 
-![OpenG7 GovGraph – English Banner](assets/banner-govgraph-en.png)
+![OpenG7 GovGraph – English Banner](docs/banner-govgraph-en.png)
 
 **Open knowledge graph and AI assistant for G7 public sector data**
 
