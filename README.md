@@ -167,7 +167,7 @@ Your support helps keep this work **independent, open, and focused on the public
 
 ### 📜 License
 
-This project is licensed under **Apache-2.0**.  
+This project is licensed under **MIT**.  
 See the `LICENSE` file for full details.
 
 ---
